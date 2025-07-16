@@ -1,0 +1,7 @@
+/ton-projet-python
+│
+├── app.py              # Ton fichier Python
+├── templates/
+│   └── index.html      # Place le code HTML ici (si tu utilises Flask par exemple)
+├── static/
+│   └── 1000009746.gif  # Place ton GIF ici
